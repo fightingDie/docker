@@ -1,2 +1,2 @@
 # docker
-get docker images
+get kubespray images
